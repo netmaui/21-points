@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # TwentyOnePoints
 
 This application was generated using JHipster 6.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.0.1](https://www.jhipster.tech/documentation-archive/v6.0.1).
@@ -186,4 +188,9 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [jasmine]: http://jasmine.github.io/2.0/introduction.html
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
-[definitelytyped]: http://definitelytyped.org/
+
+# [definitelytyped]: http://definitelytyped.org/
+
+# 21-points
+
+> > > > > > > 00bf26c09547c57eaa875de1fbc0262a3669a44b
